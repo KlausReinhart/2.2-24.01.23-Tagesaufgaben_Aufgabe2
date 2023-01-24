@@ -1,1 +1,1 @@
-Die Datei soll gelöscht werden.
+"Bitte sende eine Email an : "klaus.reinhart@data-craft.de"
